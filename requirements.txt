@@ -1,0 +1,7 @@
+Requirements:
+* TKinter
+* calendar
+* time
+* tkFont
+* ttk
+and Python 2.7.3
